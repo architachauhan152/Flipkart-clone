@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style/sinup.css" />
+</head>
+
+<body>
+    <nav id="navbar">
+        <div id="flipkart-logo">
+            <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_8d85f4.png"
+                alt="" />
+            <a href="">Explore <span>Plus</span>
+                <img src="https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/plus_aef861.png" alt=""
+                    width="10px" />
+            </a>
+        </div>
+    </nav>
+    <div id="cart">
+        <div id="box1">
+            <div style="color: white;font-size: 30px;">
+                Looks like you're new here!
+            </div>
+            <div style="color: white;font-size: 20px;margin-top: 25px;">Sign up with your mobile number to get
+                Started</div>
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiGjhCtufibxKibDiWEc9T0A4MggTwq3Jcg&usqp=CAU">
+        </div>
+        <div id="box2">
+            <p id="oninp">Enter mobile number</p>
+            <input id="mbl" class="mblinp" type="number" placeholder="Enter mobile number" onclick="mblclick()"
+                oninput="mblonip()" />
+            <p id="none11" class="otptext">OTP Sent to Mobile</p>
+            <input id="none12" class="otpinp" type="number" placeholder="Enter OTP" onclick="otpclick()" />
+            <input id="none13" class="passinp" type="password" placeholder="Enter Password" onclick="pasclick()" />
+            <button id="none14" class="ctnbut2">Signup</button>
+            <button id="none15" class="ctnbut3" onclick="exuser()">Existing User? Log in</button>
+            <p id="term">By continuing, you agree to Flipkart's<span style="color:#047bd5 ;"> Terms of use</span>
+                and<span style="color: #047bd5;"> Privacy Policy</span>.</p>
+            <button id="cntbut" onclick="continuebtn(event)">Continue</button>
+            <button id="cntbut1" onclick="exuser()">Existing User? Log in</button>
+        </div>
+</body>
+
+</html>
+<script src="script/signup.js"></script>
