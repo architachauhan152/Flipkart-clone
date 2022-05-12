@@ -109,10 +109,6 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 - Github: [Salman-2523](https://github.com/Salman-2523)
 
-👤 **Swapnil Parchake**
-
-- Github: [swapnil-parchake](https://github.com/swapnil-parchake)
-
 👤 **Rushikeh Paradhikar**
 
 - Github: [Rushikesh7997](https://github.com/Rushikesh7997)
