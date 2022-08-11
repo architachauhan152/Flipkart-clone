@@ -87,7 +87,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 ## Demo
 
-[Flipkart Clone](https://flipkart01-clone.netlify.app/)
+[Flipkart Clone](https://upbeat-wilson-2fe19b.netlify.app/)
 
 <br>
 
