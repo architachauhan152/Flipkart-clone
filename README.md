@@ -79,12 +79,6 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 <br>
 
-## Demo Preentation 🎥
-
-[Flipkart Clone](https://drive.google.com/file/d/1EpvufBBFyIj-G_oWqUNH38wLPXyrDHbe/view?usp=sharing)
-
-<br>
-
 ## Demo
 
 [Flipkart Clone](https://upbeat-wilson-2fe19b.netlify.app/)
