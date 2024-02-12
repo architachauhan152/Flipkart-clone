@@ -85,7 +85,7 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 <br>
 
-## Team Members and Contributors 😇
+<!---## Team Members and Contributors 😇
 
 👤 **Hemant Suryawanshi**
 
@@ -105,4 +105,4 @@ You can also take the glimpse of our Project,just follow the below steps:
 
 👤 **Rushikeh Paradhikar**
 
-- Github: [Rushikesh7997](https://github.com/Rushikesh7997)
+- Github: [Rushikesh7997](https://github.com/Rushikesh7997) --->
